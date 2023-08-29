@@ -2,3 +2,7 @@ node_modules
 adv_search.png
 favs.png
 *.png
+.env-local
+.env
+.next
+.git
