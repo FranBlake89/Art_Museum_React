@@ -2,6 +2,9 @@
 
 Art Museum React is a web application developed using Next.js, React, Bootstrap, Node.js, Express, and MongoDB. This project focuses on providing users with a platform to explore artworks and enhance their art museum experience digitally.
 
+> [!IMPORTANT]  
+>  This project is intricately connected to the [`User Art Musseum API`](https://github.com/FranBlake89/APIS/tree/master/API_users).
+
 ## Link
 https://museum-silk.vercel.app/login
 
